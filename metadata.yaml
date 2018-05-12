@@ -1,0 +1,35 @@
+_repo: Minnie-s-Pet-Dog_26616
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Aunt Hattie
+    - Hattie, Aunt
+    - Baker, Harriette Newell Woods
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: http://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: ''
+gutenberg_issued: '2008-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Children and animals -- Juvenile fiction'
+- !lcsh 'Pets -- Social aspects -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+title: Minnie's Pet Dog
+url: http://www.gutenberg.org/ebooks/26616
